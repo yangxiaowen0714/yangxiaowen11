@@ -1,0 +1,31 @@
+2019-03-02 12:55:34,809 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-02 12:55:34,810 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-03-02 12:55:37,915 - BrowserEngine - INFO - 浏览器为谷歌
+2019-03-02 12:55:38,642 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
+2019-03-02 12:55:39,892 - BasePage - INFO - 输入内容:admin
+2019-03-02 12:55:39,996 - BasePage - INFO - 输入内容:tt147258
+2019-03-02 12:55:40,095 - BasePage - INFO - The element 登录 was clicked.
+2019-03-02 12:55:41,511 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-02 12:55:41,885 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2019-03-02 12:55:42,003 - BasePage - INFO - 输入内容:杨大大
+2019-03-02 12:55:42,114 - BasePage - INFO - 输入内容:杨二二
+2019-03-02 12:55:43,858 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-02 12:55:44,173 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2019-03-02 12:55:44,292 - BasePage - INFO - 输入内容:杨三三
+2019-03-02 12:55:44,774 - BasePage - INFO - The element 发表回复 was clicked.
+2019-03-02 12:55:45,064 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-02 12:55:45,383 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2019-03-02 12:55:45,383 - BrowserEngine - INFO - 现在关闭浏览器
+2019-03-02 12:55:47,560 - BrowserEngine - INFO - 读取浏览器成功
+2019-03-02 12:55:47,560 - BrowserEngine - INFO - 找到URL:http://127.0.0.1/forum.php
+2019-03-02 12:55:49,911 - BrowserEngine - INFO - 浏览器为谷歌
+2019-03-02 12:55:50,422 - BrowserEngine - INFO - 打开浏览器http://127.0.0.1/forum.php
